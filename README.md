@@ -35,8 +35,6 @@ Hands-on work deploying and working with Security Onion, with a focus on configu
 
 The project documentation will describe the environment, deployment process, monitoring capabilities explored, and practical observations.
 
-[View Security Onion Project](./projects/security-onion/README.md)
-
 ## Additional Areas of Practice
 
 This portfolio will also document relevant cybersecurity work and practical demonstrations in areas such as:
