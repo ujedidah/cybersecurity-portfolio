@@ -57,7 +57,6 @@ Each topic will be supported by relevant project evidence, authorized work examp
 
 - **LinkedIn:** https://www.linkedin.com/in/jedidah-umaru/
 - **Email:** ujedidah@gmail.com
-- **GitHub:** [Add your GitHub profile URL]
 
 ## Disclaimer
 
